@@ -1,4 +1,4 @@
 # Simple-driving-game
 
-Designed using Pygame
+Designed using Python Pygame
 
